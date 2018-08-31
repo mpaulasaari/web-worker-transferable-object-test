@@ -1,0 +1,26 @@
+{
+  "name": "web-worker-transferable-object-test",
+  "version": "0.0.1",
+  "description": "Test the speed difference of using and not using Transferable Object with Web Workers",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "open http://localhost:8080 && http-server ./src"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpaulasaari/web-worker-transferable-object-test"
+  },
+  "keywords": [
+    "web worker",
+    "transferable object"
+  ],
+  "author": "Mika Paulasaari",
+  "contributors": [
+    "Mika Paulasaari <mika@paulasaari.fi>"
+  ],
+  "license": "none"
+}
