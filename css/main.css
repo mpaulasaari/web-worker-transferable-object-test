@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  font-size: 16px;
+}
+
+input[type=checkbox] {
+  width: 16px;
+  height: 16px;
+  margin-left: 30px;
+}
+
+.thread {
+  color: #3377ee;
+}
+
+.worker {
+  color: #33aa00;
+}
