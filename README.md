@@ -13,7 +13,8 @@ not using [Transferable Object](https://developer.mozilla.org/en-US/docs/Web/API
 ## Getting started
 
 Get you a copy of the project up and running on your local machine for
-development and testing purposes.
+development and testing purposes. or check out the live demo at
+https://mpaulasaari.github.io/web-worker-transferable-object-test/
 
 ### Prerequisites
 
