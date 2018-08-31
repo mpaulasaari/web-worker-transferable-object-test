@@ -1,4 +1,4 @@
-# Web Workers Transferable Bbject test
+# Web Workers Transferable Object test
 
 **The purpose of this snippet was to test the speed difference of using and not
 using Transferable Object with Web Workers.**
