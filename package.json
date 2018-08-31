@@ -2,9 +2,9 @@
   "name": "web-worker-transferable-object-test",
   "version": "0.0.1",
   "description": "Test the speed difference of using and not using Transferable Object with Web Workers",
-  "main": "src/index.html",
+  "main": "index.html",
   "scripts": {
-    "start": "open http://localhost:8080 && http-server ./src"
+    "start": "open http://localhost:8080 && http-server ./"
   },
   "dependencies": {
     "http-server": "^0.11.1"
